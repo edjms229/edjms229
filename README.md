@@ -1,63 +1,13 @@
-<div align="center" style="padding: 20px; background-color: #f0f0f0; border-radius: 10px; border: 1px solid #ccc;">
-    <h1 style="color: #0000FF; margin-bottom: 15px;"> My Repository</h1>
-    <p style="font-size: 18px;">Bienvenido a mi proyecto personalizado con HTML en Markdown</p>
-</div>
+<h1 align="center">Hi 👋, I'm Esteban Mazo.</h1>
+<h3 align="center">Passionate about software development.</h3>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/versión-1.0.0-brightgreen" alt="Versión">
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/tu_usuario/tu_proyecto?color=blue" alt="PR Cerrados">
-    <img src="https://img.shields.io/github/forks/tu_usuario/tu_proyecto?color=purple" alt="Forks">
-    <img src="https://img.shields.io/github/stars/tu_usuario/tu_proyecto?color=yellow" alt="Stars">
+- 🔭 I’m currently working on **Confidential Projects**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<div style="background-color:#e3f2fd; padding:15px; border-radius:8px; border: 1px solid #90caf9;">
-    <h2>📋 Descripción</h2>
-    <p>Este proyecto es un ejemplo de cómo puedes personalizar tu repositorio usando Markdown y HTML. Markdown es fácil de aprender y usar, y permite un formato sencillo y elegante.</p>
-</div>
-
-<div style="background-color:#fff3e0; padding:15px; border-radius:8px; border: 1px solid #ffcc80;">
-    <h2>🎨 Características</h2>
-    <ul>
-        <li>🚀 <b>Fácil de usar</b></li>
-        <li>🎨 <b>Totalmente personalizable</b></li>
-        <li>📱 <b>Responsive y amigable para dispositivos móviles</b></li>
-    </ul>
-</div>
-
-<div style="background-color:#e8f5e9; padding:15px; border-radius:8px; border: 1px solid #66bb6a;">
-    <h2>⚙️ Instalación</h2>
-    <ol>
-        <li><b>Clona el repositorio</b>:
-            <pre><code>git clone https://github.com/tu_usuario/tu_proyecto.git</code></pre>
-        </li>
-        <li><b>Instala las dependencias</b>:
-            <pre><code>npm install</code></pre>
-        </li>
-        <li><b>Ejecuta el proyecto</b>:
-            <pre><code>npm start</code></pre>
-        </li>
-    </ol>
-</div>
-
-<div style="background-color:#f3e5f5; padding:15px; border-radius:8px; border: 1px solid #ce93d8;">
-    <h2>🤝 Contribuir</h2>
-    <p>Las contribuciones son bienvenidas. Para contribuir, sigue estos pasos:</p>
-    <ol>
-        <li>Haz un <b>fork</b> del proyecto.</li>
-        <li>Crea una nueva rama (<code>git checkout -b feature/AmazingFeature</code>).</li>
-        <li>Realiza tus cambios y haz commit (<code>git commit -m 'Add some AmazingFeature'</code>).</li>
-        <li>Envía tus cambios al repositorio (<code>git push origin feature/AmazingFeature</code>).</li>
-        <li>Abre un <b>Pull Request</b>.</li>
-    </ol>
-</div>
-
-<div style="background-color:#fbe9e7; padding:15px; border-radius:8px; border: 1px solid #ffab91;">
-    <h2>📜 Licencia</h2>
-    <p>Este proyecto está licenciado bajo la Licencia MIT. Mira el archivo <a href="LICENSE" style="color: #e57373;">LICENSE</a> para más detalles.</p>
-</div>
-
-<footer align="center" style="margin-top:20px; padding: 10px; background-color: #4CAF50; color: white;">
-    &copy; 2024 Mi Proyecto. Todos los derechos reservados.
-</footer>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
