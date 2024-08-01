@@ -1,4 +1,7 @@
-<h1 align="center" style="background-color:#4CAF50; color:white; padding:20px;">🌟 Mi Proyecto 🌟</h1>
+<div align="center" style="padding: 20px; background-color: #f0f0f0; border-radius: 10px; border: 1px solid #ccc;">
+    <h1 style="color: #4CAF50; margin-bottom: 10px;">🌟 Mi Proyecto 🌟</h1>
+    <p style="font-size: 18px;">Bienvenido a mi proyecto personalizado con HTML en Markdown</p>
+</div>
 
 <p align="center">
     <img src="https://img.shields.io/badge/versión-1.0.0-brightgreen" alt="Versión">
@@ -7,25 +10,18 @@
     <img src="https://img.shields.io/github/stars/tu_usuario/tu_proyecto?color=yellow" alt="Stars">
 </p>
 
-<div style="background-color:#f9f9f9; padding:15px; border-radius:8px; border: 1px solid #ddd;">
+<div style="background-color:#e3f2fd; padding:15px; border-radius:8px; border: 1px solid #90caf9;">
     <h2>📋 Descripción</h2>
-    <p>Este proyecto es un ejemplo de cómo puedes personalizar tu repositorio usando Markdown. Markdown es fácil de aprender y usar, y permite un formato sencillo y elegante.</p>
+    <p>Este proyecto es un ejemplo de cómo puedes personalizar tu repositorio usando Markdown y HTML. Markdown es fácil de aprender y usar, y permite un formato sencillo y elegante.</p>
 </div>
 
-<div style="background-color:#e3f2fd; padding:15px; border-radius:8px; border: 1px solid #90caf9;">
+<div style="background-color:#fff3e0; padding:15px; border-radius:8px; border: 1px solid #ffcc80;">
     <h2>🎨 Características</h2>
     <ul>
         <li>🚀 <b>Fácil de usar</b></li>
         <li>🎨 <b>Totalmente personalizable</b></li>
         <li>📱 <b>Responsive y amigable para dispositivos móviles</b></li>
     </ul>
-</div>
-
-<div style="background-color:#fff3e0; padding:15px; border-radius:8px; border: 1px solid #ffcc80;">
-    <h2>🖼️ Capturas de Pantalla</h2>
-    <p align="center">
-        <img src="ruta/de/tu/imagen.png" alt="Captura de Pantalla del Proyecto" style="border-radius: 8px; border: 1px solid #ddd; max-width: 100%; height: auto;">
-    </p>
 </div>
 
 <div style="background-color:#e8f5e9; padding:15px; border-radius:8px; border: 1px solid #66bb6a;">
@@ -60,9 +56,8 @@
     <p>Este proyecto está licenciado bajo la Licencia MIT. Mira el archivo <a href="LICENSE" style="color: #e57373;">LICENSE</a> para más detalles.</p>
 </div>
 
-<footer align="center" style="margin-top:20px;">
+<footer align="center" style="margin-top:20px; padding: 10px; background-color: #4CAF50; color: white;">
     &copy; 2024 Mi Proyecto. Todos los derechos reservados.
 </footer>
-
 
 
