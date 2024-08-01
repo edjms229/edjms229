@@ -1,5 +1,5 @@
 <div align="center" style="padding: 20px; background-color: #f0f0f0; border-radius: 10px; border: 1px solid #ccc;">
-    <h1 style="color: #4CAF50; margin-bottom: 10px;">🌟 Mi Proyecto 🌟</h1>
+    <h1 style="color: blue; margin-bottom: 15px;"> My Repository</h1>
     <p style="font-size: 18px;">Bienvenido a mi proyecto personalizado con HTML en Markdown</p>
 </div>
 
